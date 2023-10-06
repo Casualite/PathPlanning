@@ -1,0 +1,1 @@
+{"duration": 0.002919912338256836, "input_args": {"**": "{'affinity': 'euclidean', 'connectivity': None, 'linkage': 'complete', 'n_clusters': None, 'return_distance': True}", "*": "[array([[ 1.,  2.,  3.],\n       [ 1.,  4.,  5.],\n       [ 1.,  0.,  3.],\n       [ 4.,  2.,  5.],\n       [ 4.,  4.,  4.],\n       [ 4.,  0., 10.]])]"}, "time": 1695729911.6564033}
